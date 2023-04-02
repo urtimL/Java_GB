@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1463575-bafc-4a27-8abf-37a9b08122e9" name="Changes" comment="add lesson 3 homework task 1">
-      <change afterPath="$PROJECT_DIR$/src/lesson3HW/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3HW/Task3.java" afterDir="false" />
+    <list default="true" id="f1463575-bafc-4a27-8abf-37a9b08122e9" name="Changes" comment="add lesson 3 homework task 2,3">
+      <change afterPath="$PROJECT_DIR$/src/lesson4HW/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4HW/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3HW/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3HW/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +30,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -68,13 +67,13 @@
       <recent name="lesson3HW" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson3HW.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.Main" />
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4HW.Task1" />
       <module name="lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="lesson4HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson1HW.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1HW.Main" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4HW.Task2" />
       <module name="lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1HW.*" />
+          <option name="PATTERN" value="lesson4HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.lesson3HW.Main" />
         <item itemvalue="Application.lesson2HW.Main" />
         <item itemvalue="Application.lesson2.Main" />
-        <item itemvalue="Application.lesson1HW.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -160,11 +159,19 @@
       <option name="project" value="LOCAL" />
       <updated>1680357917491</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add lesson 3 homework task 2,3">
+      <created>1680366733160</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680366733160</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add lesson 3 homework task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson 3 homework task 1" />
+    <MESSAGE value="add lesson 3 homework task 2,3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson 3 homework task 2,3" />
   </component>
 </project>
