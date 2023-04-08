@@ -24,7 +24,7 @@ public class Task2 {
         System.out.println(firstEl);
     }
 
-    private static void enqueue(String el, LinkedList<String> ls){
+    private static void enqueue(String el, LinkedList<String> ls) {
         ls.addLast(el);
 
         System.out.println("В конец список дбавлн элмент:");
