@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1463575-bafc-4a27-8abf-37a9b08122e9" name="Changes" comment="add lesson 4 homework task 1, 2">
-      <change afterPath="$PROJECT_DIR$/src/lesson6HW/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson6HW/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson6HW/Work.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson6HW/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6HW/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson6HW/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6HW/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson6HW/Work.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6HW/Work.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <recent name="lesson3HW" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HeapSort">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson5HW.HeapSort" />
       <module name="lessons" />
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson4HW.Task2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6HW.Main" />
       <module name="lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson4HW.*" />
+          <option name="PATTERN" value="lesson6HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.lesson5HW.Task2" />
         <item itemvalue="Application.lesson5HW.Task1" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
